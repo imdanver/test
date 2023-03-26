@@ -237,7 +237,7 @@
     right: 0
     bottom: 0
     left: 0
-    background: white
+    background: rgba(0, 0, 0, .5)
 
     &__select
         display: flex
