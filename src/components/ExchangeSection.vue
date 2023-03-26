@@ -244,7 +244,8 @@
         justify-content: center
         align-items: center
         flex-direction: column
-        width: 50%
+        flex: 1
+        max-width: 400px
         background: #c3f3c3
         border-radius: .5rem
 
