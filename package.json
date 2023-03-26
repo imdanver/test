@@ -1,5 +1,5 @@
 {
-  "name": "test-ak-leads",
+  "name": "test-dublemint",
   "version": "1.0.0",
   "private": true,
   "description": "",
@@ -16,7 +16,9 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
-    "@vue/cli-service": "~5.0.0"
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.60.0",
+    "sass-loader": "^13.2.1"
   },
   "browserslist": [
     "> 1%",
